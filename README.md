@@ -1,2 +1,5 @@
-# franz-recipe-twist
-Franz 5 recipe for Twistapp.com
+# Messenger for Franz
+This is the official Franz recipe for Twistapp.com
+
+### How to create your own Franz recipes:
+* [Read the documentation](https://github.com/meetfranz/plugins)
