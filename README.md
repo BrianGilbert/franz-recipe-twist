@@ -1,4 +1,4 @@
-# Messenger for Franz
+# Twist for Franz
 This is the official Franz recipe for Twistapp.com
 
 ### How to create your own Franz recipes:
